@@ -9,7 +9,7 @@ idna==2.2
 incremental==16.10.1
 lxml==3.7.2
 parsel==1.1.0
-peewee==2.8.5
+peewee==3.1.0
 pyasn1==0.2.2
 pyasn1-modules==0.0.8
 pycparser==2.17
