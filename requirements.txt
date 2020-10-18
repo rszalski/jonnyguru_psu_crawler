@@ -7,7 +7,7 @@ cssselect==1.0.1
 docopt==0.6.2
 idna==2.2
 incremental==16.10.1
-lxml==3.7.2
+lxml==4.6.1
 parsel==1.1.0
 peewee==3.1.1
 pyasn1==0.2.2
